@@ -5,7 +5,7 @@ Dave supports multi-language interactions, text-to-speech, image generation, and
 The following are its features:
 1. Voice Command Processing: Recognizes and processes voice commands in real-time, allowing users to interact naturally and efficiently.
 
-2. Task Management: Automates drafting messages and schedules meetings
+2. Task Management: Automates drafting messages and schedules meetings.
 
 3. Multi-Language Support:
 Built with OpenAI Whisper, Dave can handle voice commands in multiple languages, making it accessible to users worldwide.
