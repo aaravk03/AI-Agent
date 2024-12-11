@@ -3,7 +3,7 @@ Voice Assistant "Dave" is a desktop application designed to save time and boost 
 Dave supports multi-language interactions, text-to-speech, image generation, and personalized recommendations, providing a seamless and intuitive user experience. It has been shown to save users an average of 10 hours per month, making it a powerful tool for both personal and professional use.
 
 The following are its features:
-1. Voice Command Processing:Recognizes and processes voice commands in real-time, allowing users to interact naturally and efficiently.
+1. Voice Command Processing: Recognizes and processes voice commands in real-time, allowing users to interact naturally and efficiently.
 
 2. Task Management: 
 Automates drafting and sending messages.
