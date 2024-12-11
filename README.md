@@ -12,6 +12,7 @@ Built with OpenAI Whisper, Dave can handle voice commands in multiple languages,
 
 4. Real-Time Image Generation: Creates visuals or images on the fly using AI-driven models. This feature is especially useful for brainstorming, presentations, or creative tasks.
 
+
 How It Works: 
 1. Launch the Application: Open Dave Voice Assistant on your Windows computer.
 2. Start Recording: Click the "Start Recording" button to initiate voice recognition.
