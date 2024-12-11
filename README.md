@@ -10,9 +10,7 @@ The following are its features:
 3. Multi-Language Support:
 Built with OpenAI Whisper, Dave can handle voice commands in multiple languages, making it accessible to users worldwide.
 
-4. Text-to-Speech: Converts responses into clear, natural-sounding audio, enabling hands-free operation.
-
-5. Real-Time Image Generation: Creates visuals or images on the fly using AI-driven models. This feature is especially useful for brainstorming, presentations, or creative tasks.
+4. Real-Time Image Generation: Creates visuals or images on the fly using AI-driven models. This feature is especially useful for brainstorming, presentations, or creative tasks.
 
 How It Works: 
 1. Launch the Application: Open Dave Voice Assistant on your Windows computer.
