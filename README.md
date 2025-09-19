@@ -17,7 +17,3 @@ How It Works:
 1. Launch the Application: Open Dave Voice Assistant on your Windows computer.
 2. Start Recording: Click the "Start Recording" button to initiate voice recognition.
 3. Give Commands: Use natural language to: Draft emails or messages. Schedule meetings (e.g., "Set a meeting with John at 3 PM"). Request real-time answers (e.g., "What is the weather today?"). Generate images (e.g., "Create an image of a sunset").
-4. Experience AI Assistance: Let Dave handle the rest with minimal input.
-
-Here is a demo video: https://www.youtube.com/watch?v=hXrEwTYxyOk
-
